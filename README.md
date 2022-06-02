@@ -1,4 +1,4 @@
-## Hey, Hey, my name is Leonardo🐱
+## Hey, my name is Leonardo🐱
 - 🌱 Systems analysis and development student
 - 🌱 I'm currently studying Python.
 

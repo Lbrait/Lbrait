@@ -1,6 +1,6 @@
 ## Hey, my name is Leonardo🐱
 - 🌱 Systems analysis and development student
-- 🌱 I'm currently studying Python.
+- 🌱 I'm currently studying Data Science with Python.
 
 <div align="center">
   <a href="https://github.com/Lbrait">
